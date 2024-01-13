@@ -1,14 +1,14 @@
 ---
 layout: single
 title: "[wget Error] 다운로드 중 끊기는 현상: Connection reset by peer"
-categories: ES
+categories: Error Solutions
 ---
 
 # Problem
 ---
 `wget`을 이용해서 다운로드 하던 중 이유 없이 끊김
 
-![error message]("./images/wget-connection-reset-by-peer-1.png")
+![error message](./images/wget-connection-reset-by-peer-1.png)
 
 # Solution
 ---
