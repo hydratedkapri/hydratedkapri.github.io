@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Import Error] most likely due to a circular import"
-categories: Error Solutions
+categories: Error-Solutions
 ---
 
 # Problem

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[wget Error] 다운로드 중 끊기는 현상: Connection reset by peer"
-categories: Error Solutions
+categories: Error-Solutions
 ---
 
 # Problem
