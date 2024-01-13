@@ -8,7 +8,7 @@ categories: Error-Solutions
 ---
 `wget`을 이용해서 다운로드 하던 중 이유 없이 끊김
 
-![error message](./images/wget-connection-reset-by-peer-1.png)
+![Error message](https://github.com/hydratedkapri/hydratedkapri.github.io/assets/154444706/82104078-1f26-4496-b056-51c04dd0e69d)
 
 # Solution
 ---
